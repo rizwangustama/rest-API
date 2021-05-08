@@ -1,0 +1,31 @@
+[
+    {
+        "nama" : "Rizwan Gustama",
+        "umur" : 21,
+        "nim" : "201800040068",
+        "lulus" : true,
+        "hobbi" : [ 
+            "coding", "olahraga"
+        ],
+        "pembingbing" : {
+            "pembingbing1" : "Somantri, S.kom, M.kom",
+            "pembingbing2" : "Hermanto, S.kom, M.kom"
+        }
+
+    },
+
+    {
+        "nama" : "Rizwan Gustama",
+        "umur" : 21,
+        "nim" : "201800040068",
+        "lulus" : true,
+        "hobbi" : [ 
+            "coding", "olahraga"
+        ],
+        "pembingbing" : {
+            "pembingbing1" : "Somantri, S.kom, M.kom",
+            "pembingbing2" : "Hermanto, S.kom, M.kom"
+        }
+
+    }
+]
