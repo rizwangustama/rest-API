@@ -1,0 +1,25 @@
+{
+    "menu": [
+        {
+            "Kategori": "pizza",
+            "nama": "Super Supreme",
+            "deskripsi": "Irisan Sosis Sapi, daging cincang",
+            "harga": 49500,
+            "gambar": "supreme.jpg"
+        },
+        {
+            "Kategori": "pizza",
+            "nama": "Meet Lover",
+            "deskripsi": "Irisan Sosis Sapi, daging cincang",
+            "harga": 49500,
+            "gambar": "meat-lover.jpg"
+        },
+        {
+            "Kategori": "pizza",
+            "nama": "Tuna Melt",
+            "deskripsi": "Irisan Sosis Sapi, daging cincang",
+            "harga": 49500,
+            "gambar": "tuna-melt.jpg"
+        }
+    ]
+}
